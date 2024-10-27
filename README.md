@@ -1,4 +1,4 @@
-# 🧬 El Arte de la Guerra. Inspirado en Age of Empire III.
+# 🧬 El Arte de la Guerra. Inspirado en Age of Empires III.
 
 ***Desarrollado por:*** Juan Pablo Daza Pereira y Juan Sebastian Camargo Sanchez.
 
