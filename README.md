@@ -1,5 +1,7 @@
 # 🧬 El Arte de la Guerra. Inspirado en Age of Empire III.
 
+***Desarrollado por:*** Juan Pablo Daza Pereira y Juan Sebastian Camargo Sanchez.
+
 ¡Bienvenido a **El Arte de la Guerra**! Este proyecto implementa un algoritmo genético para optimizar la distribución de aldeanos en diferentes eras, maximizando la recolección de **oro**, **comida** y **madera** a lo largo del tiempo. 🏆
 
 ---
